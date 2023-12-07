@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/Y7jLD4q/git.jpg)
+![](https://i.ibb.co/Y7jLD4q/git.jpg)
 
 ### Hi there 👋, This is ILIUS MAHFUZ
 #### I am Tech Tech Enthusiast Software Engineer
