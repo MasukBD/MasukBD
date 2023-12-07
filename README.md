@@ -1,6 +1,7 @@
-![I am Tech Tech Enthusiast Software Engineer](https://i.ibb.co/Y7jLD4q/git.jpg)
 ### Hi there 👋, This is ILIUS MAHFUZ
 #### I am Tech Tech Enthusiast Software Engineer
+
+![I am Tech Tech Enthusiast Software Engineer](https://i.ibb.co/Y7jLD4q/git.jpg)
 
 Hi! My name is Ilius Mahfuz, a fresh software graduate. I specialize in web application development, leveraging my skills in React.js, Node.js and PHP as well. My experiences range from crafting dynamic and responsive user interfaces to robust backend solutions. Beyond my web development expertise, I am deeply interested in the realms of AI and data science with python programming language. Eager to merge coding proficiency with machine learning, I am committed to staying abreast of the latest technological advancements. I look forward to contributing my skills and passion to the exciting intersection of web development and artificial intelligence.
 
