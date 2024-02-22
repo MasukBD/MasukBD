@@ -1,4 +1,4 @@
-![Tech Enthusiast Software Engineer]([https://i.ibb.co/tcy4k8T/coding-guy.jpg](https://i.ibb.co/VxnGtQ7/binary.png))
+![Tech Enthusiast Software Engineer](https://i.ibb.co/VxnGtQ7/binary.png)
 
 ### Hi there 👋, This is ILIUS MAHFUZ
 #### Tech Enthusiast | Software Engineer
